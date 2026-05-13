@@ -8,7 +8,7 @@ VPS World：https://vpsworld.org/fanqiang-ranking/
 
 ---
 
-[寰宇云机场](http://huanyuyunbest.com/#/register?code=2vW5C1r4)，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。采用企业级 IPLC / IEPL 专线，并结合智能负载均衡与三网入口优化，尽量保障国内用户连接海外节点的速度与稳定性，晚高峰也有更好的表现。和多种支付方式（微信 / 支付宝）
+[寰宇云机场](https://vip3.huanyuyunbest.com/#/register?code=2vW5C1r4)，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。采用企业级 IPLC / IEPL 专线，并结合智能负载均衡与三网入口优化，尽量保障国内用户连接海外节点的速度与稳定性，晚高峰也有更好的表现。和多种支付方式（微信 / 支付宝）
 
 原生出口带宽晚高峰依然流畅、自有 ASN 广播支持 Netflix 4K/Disney+/TikTok 解锁、全独享带宽不超售不堆用户，以及提供稀缺 4000G 不限时流量包。套餐方面，入门套餐 ¥16/160G 适合入门用户，限时年付 ¥89/年（60G/月）性价比高，还有 2000G/4000G永久不限时套餐可选，一次购买长期无忧。
 
@@ -22,7 +22,7 @@ VPS World：https://vpsworld.org/fanqiang-ranking/
 
 ## 🌐 官方网站
 
-[https://huanyuyunvip.com/](http://huanyuyunbest.com/#/register?code=2vW5C1r4)
+[https://huanyuyunvip.com/](https://vip3.huanyuyunbest.com/#/register?code=2vW5C1r4)
 
 ## 🌍 节点地域
 
@@ -126,4 +126,4 @@ https://t.me/huanyuyunvip
 
 **寰宇云机场**是一家全新机场，由 8 年以上经验的海外团队操刀，全部节点采用最新 AnyTLS 协议，拥有自研客户端，又兼容了通用的 Clash 订阅，闲时可以跑满北京联通 1000 Mbps 带宽，这不是它的上限，而是我的上限。总之非常适合入手。
 
-👉 官方网站：[https://huanyuyunvip.com/](http://huanyuyunbest.com/#/register?code=2vW5C1r4)
+👉 官方网站：[https://huanyuyunvip.com/](https://vip3.huanyuyunbest.com/#/register?code=2vW5C1r4)
