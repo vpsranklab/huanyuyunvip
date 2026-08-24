@@ -1,10 +1,18 @@
 # 寰宇云机场：2026实力机场，采用全新AnyTLS协议，自研客户端，兼容通用Clash客户端，抗封锁能力强
 
-## 🔽 更多优质机场推荐
+## 🔽 你可能还需要
+
+### 机场排名与推荐
 
 机场大师：[https://jichangdashi.com](https://www.jichangdashi.com/)
 
-VPS World：https://vpsworld.org/fanqiang-ranking/
+### 机场优惠与推荐
+
+VPS World：[https://vpsworld.org/](https://vpsworld.org/)
+
+### 热门机场监测
+
+机场监测：[https://jichang.watch](https://jichang.watch/)
 
 ---
 
@@ -20,24 +28,24 @@ VPS World：https://vpsworld.org/fanqiang-ranking/
 - **不限制同时在线设备**
 - 付款方式：**支付宝&微信**（手续费 5%）
 
-## 🌐 官方网站
+## 🌐 官方网站
 
 [https://huanyuyunvip.com/](https://vip3.huanyuyunbest.com/#/register?code=2vW5C1r4)
 
-## 🌍 节点地域
+## 🌍 节点地域
 
 - 🇭🇰 香港
 - 🇹🇼 台湾
-- 🇰🇷 韩国
+- 🇰🇷 韩国
 - 🇯🇵 日本
 - 🇸🇬 新加坡
 - 🇺🇸 美国
-- 🇩🇪 德国
-- 🇬🇧 英国
-- 🇮🇳 印度
-- 🇳🇱 荷兰
+- 🇩🇪 德国
+- 🇬🇧 英国
+- 🇮🇳 印度
+- 🇳🇱 荷兰
 
-## **📶 节点测速**
+## **📶 节点测速**
 
 ⌛️ 更新于 2026 年 4 月，测试工具 SpeedTest 为正版解锁。
 
@@ -57,21 +65,21 @@ ISP：中国联通 1000 Mbps（北京）
 
 ### SpeedTest.net 网络测试
 
-- 香港节点：延迟 340 ms，下载 350 Mbps，上传：8 Mbps
-- 台湾节点：延迟 80 ms，下载 330 Mbps，上传：5 Mbps
-- 日本节点：延迟 220ms，下载 230 Mbps，上传：50 Mbps
+- 香港节点：延迟 340 ms，下载速率 350 Mbps，上传速率 8 Mbps
+- 台湾节点：延迟 80 ms，下载速率 330 Mbps，上传速率 5 Mbps
+- 日本节点：延迟 220ms，下载速率 230 Mbps，上传速率 50 Mbps
 
 ### Fast.com 网络测试
 
-- 香港节点：延迟 60 ms，下载 360 Mbps，上传：55 M bps
-- 台湾节点：延迟：80ms，下载：380 Mbps，上传：250 Mbps
-- 日本节点：延迟：60ms，下载：190 Mbps，上传：40 Mbps
+- 香港节点：延迟 60 ms，下载速率 360 Mbps，上传速率 55 M bps
+- 台湾节点：延迟 80ms，下载速率 380 Mbps，上传速率 250 Mbps
+- 日本节点：延迟 60ms，下载速率 190 Mbps，上传速率 40 Mbps
 
-## 🧾 订阅列表
+## 🧾 订阅列表
 
 ### 周期订阅
 
-ℹ️ 另有**限时年付小包**，89 元/年，每月 60 GB 流量。
+ℹ️ 另有**限时年付小包**，89 元/年，每月 60 GB 流量。
 
 | 订阅名称 | 流量/月 | 速率 | 价格/月 |
 | --- | --- | --- | --- |
@@ -86,25 +94,14 @@ ISP：中国联通 1000 Mbps（北京）
 | 巨量不限时 | 2000 GB | 2.5 Gbps | ￥268.00 |
 | 海量不限时 | 4000 GB | 2.5 Gbps | ￥398.00 |
 
-## 🎁 优惠促销
+## 🛠️ 售后服务
 
--
+| Telegram | ✅ |
+| --- | --- |
+| 工单 | ✅ |
+| 在线客服 | ✅ |
 
-## 🛠️ 售后服务
-
-### Telegram
-
-https://t.me/huanyuyunvip
-
-### 工单
-
-[提交工单](https://huanyuyunvip.com/#/tickets)
-
-### 在线客服
-
-[通过 Crisp 与在线客服联系](https://huanyuyunvip.com/#/dashboard)
-
-## 📩 机场自荐
+## 📩 机场自荐
 
 ```yaml
 寰宇云机场
@@ -122,8 +119,8 @@ https://t.me/huanyuyunvip
 📱 全平台兼容，极简上手： 完美适配 iOS、Android、Windows、macOS 及各类软路由。全面兼容主流客户端（如 Clash、Shadowrocket、Surge、v2rayN 等），提供一键导入订阅，小白也能轻松连接。
 ```
 
-## 📝 总结
+## 📝 总结
 
-**寰宇云机场**是一家全新机场，由 8 年以上经验的海外团队操刀，全部节点采用最新 AnyTLS 协议，拥有自研客户端，又兼容了通用的 Clash 订阅，闲时可以跑满北京联通 1000 Mbps 带宽，这不是它的上限，而是我的上限。总之非常适合入手。
+寰宇云机场是一家偏实力型的新机场，采用 AnyTLS 协议、自研客户端并兼容 Clash，兼顾原生出口带宽、流媒体解锁和抗封锁能力。它适合希望选择新协议、高稳定性和大流量套餐的用户。
 
 👉 官方网站：[https://huanyuyunvip.com/](https://vip3.huanyuyunbest.com/#/register?code=2vW5C1r4)
